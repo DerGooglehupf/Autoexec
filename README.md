@@ -135,5 +135,5 @@ fps_max "165"
 
 // Startoptionen
 // -exec autoexec.cfg -novid -language bananagaming -high -threads 4 -freq 75 -refresh 75 -tickrate 128
-
+// 1440x1080 alles auf Low. Multicore enabled
 host_writeconfig
